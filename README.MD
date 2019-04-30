@@ -1,5 +1,5 @@
-# Pirple Assignment #2
-API for a pizza delivery company.
+# API for a pizza delivery company.
+
 ## Starting the API
 To start the API simply type following command.
 
